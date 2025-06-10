@@ -1,5 +1,9 @@
-# Joplin Plugin
+# Meeting Templates Plugin for Joplin
 
-This is your new Joplin plugin. It is suggested that you use this README file to document your plugin.
+Create dynamic meeting templates with team and participant dropdowns.
 
-For information on how to build or publish the plugin, please see [GENERATOR_DOC.md](./GENERATOR_DOC.md)
+## Features
+- Configure teams and participants via JSON
+- Generate dynamic dropdowns for Templates plugin
+- Copy formatted templates to clipboard
+- Easy team management interface
